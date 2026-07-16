@@ -34,19 +34,19 @@ assets:
   - {seq: 11, filename: KR1e0009_011.yaml, hash: 'sha256:6bc6f90f926723bbd720453ea9a7d99d145ab9aa2d3795b9e6103f889235a99a'}
   - {seq: 12, filename: KR1e0009_012.yaml, hash: 'sha256:2b72a35f6f603794d40e63580caf2bedaaf210f101af1447fb23ce1e5820954c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1e0009_000.markers.yaml, hash: 'sha256:0b2cd3808ee2f0c4779ac1f2973a42d5a462e91e96a6c94bffd9b434222e6b6d'}
-  - {seq: 1, role: markers, filename: assets/KR1e0009_001.markers.yaml, hash: 'sha256:7245ade057ea268edf41e5a59b7a78f9990d9482ed85acaa601dbbdeec38242d'}
-  - {seq: 2, role: markers, filename: assets/KR1e0009_002.markers.yaml, hash: 'sha256:52b47295ac48c40e120fe6cefa45ef22f917c6d3c316c0cc815a1ebbe55db78a'}
-  - {seq: 3, role: markers, filename: assets/KR1e0009_003.markers.yaml, hash: 'sha256:d5e5a2d111d17a114052526025f7471cbfd88a66c539b2b8df8d88cad736d55b'}
-  - {seq: 4, role: markers, filename: assets/KR1e0009_004.markers.yaml, hash: 'sha256:9e0605cd0c6c9a00db90442eb81ebfc31bba5cfb0b392285d343c6dce7c88c4a'}
-  - {seq: 5, role: markers, filename: assets/KR1e0009_005.markers.yaml, hash: 'sha256:bc3400e7737b1825fe6d4891846ff83fa554de92f2f55f3f36c638598a2a917f'}
-  - {seq: 6, role: markers, filename: assets/KR1e0009_006.markers.yaml, hash: 'sha256:fe0f5560291c540c706e726e42678f7711a97f28a2e558996e870fae68b2a76f'}
-  - {seq: 7, role: markers, filename: assets/KR1e0009_007.markers.yaml, hash: 'sha256:5e911f71d9dc4e0e38d0369cbe810585c73c6c6e9ec1fef23db3316148737617'}
-  - {seq: 8, role: markers, filename: assets/KR1e0009_008.markers.yaml, hash: 'sha256:4cffe1afb153b89219e40ac0479b2098c41513862dbad264e2a9bdad77c02c00'}
-  - {seq: 9, role: markers, filename: assets/KR1e0009_009.markers.yaml, hash: 'sha256:67636da3147221a02dbede1dac6f1ea315a91e17e663520b8294ed17d8db077d'}
-  - {seq: 10, role: markers, filename: assets/KR1e0009_010.markers.yaml, hash: 'sha256:fe137c664950adfd39b04d46b77edaf9be4de4f25bbe142201e99051c233297a'}
-  - {seq: 11, role: markers, filename: assets/KR1e0009_011.markers.yaml, hash: 'sha256:d8292793fb10b5037116cd93d3bf042b9a29763e4169c89fca02eefc394c4631'}
-  - {seq: 12, role: markers, filename: assets/KR1e0009_012.markers.yaml, hash: 'sha256:6452a13f163432d502290744fe2af81fa99b79c5b5755aa4d56180e15d0b1632'}
+  - {seq: 0, role: markers, filename: assets/KR1e0009_000.markers.yaml, hash: 'sha256:6a3aeefc07057a0eb5cc9e50f64602d5161bdeb3fb86b58642de515f5d592c7f'}
+  - {seq: 1, role: markers, filename: assets/KR1e0009_001.markers.yaml, hash: 'sha256:0f09683e51101c1abe2c8291b2934c681ae158eeb59330f15a90ab26714bd213'}
+  - {seq: 2, role: markers, filename: assets/KR1e0009_002.markers.yaml, hash: 'sha256:bde627734d4246b07f237910b12bf20bf501d0557974d9e7d612afd7432b39ac'}
+  - {seq: 3, role: markers, filename: assets/KR1e0009_003.markers.yaml, hash: 'sha256:8669eaaef995514dc03b24e1141c1c2116325322e2448770f14f9cd6c9d89b66'}
+  - {seq: 4, role: markers, filename: assets/KR1e0009_004.markers.yaml, hash: 'sha256:8170dfa39245a6a6c5c894e0e9d9630c36e128f44c9eb2995a184bd96132180a'}
+  - {seq: 5, role: markers, filename: assets/KR1e0009_005.markers.yaml, hash: 'sha256:fd462bf5fbaa59af8ac4ecfac0371dec1ec92490395f3baffad15dc8477bc695'}
+  - {seq: 6, role: markers, filename: assets/KR1e0009_006.markers.yaml, hash: 'sha256:6f36359b27c997cc67c40447d81cc766f585a9ed3a6e45e707c368b3cc39b41e'}
+  - {seq: 7, role: markers, filename: assets/KR1e0009_007.markers.yaml, hash: 'sha256:9641b130aa70ca9988f6e8171687004259e20edfa6d2d4a21d5d517ba3305f95'}
+  - {seq: 8, role: markers, filename: assets/KR1e0009_008.markers.yaml, hash: 'sha256:347555d6cc5658704abf5cbfb81ece9610f71ffea7c9130fa7781216650ed5c2'}
+  - {seq: 9, role: markers, filename: assets/KR1e0009_009.markers.yaml, hash: 'sha256:29a6888293d334ffd0407dbedb4e629dd2c9cfa49ca5907d3741791e14cc2661'}
+  - {seq: 10, role: markers, filename: assets/KR1e0009_010.markers.yaml, hash: 'sha256:b7db3327d0e95a0f372bf1f428ee3fc0a4f7aae46e5fdf9d1a619d201b30846d'}
+  - {seq: 11, role: markers, filename: assets/KR1e0009_011.markers.yaml, hash: 'sha256:66e3193e2b2c5f4cfd98a1708c953b8d6eacab67255d8f4e0b8934143925d217'}
+  - {seq: 12, role: markers, filename: assets/KR1e0009_012.markers.yaml, hash: 'sha256:81608f21f206dc86cceca608867df2081eb8a2ff17ca50fce12bee46a828dcb5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -178,7 +178,7 @@ table_of_contents:
   label: juan 012
   type: section
   level: 1
-hash: sha256:be20eed6cae911cf327cf4c7072b5f5c4b91f1d8d30f80e93f67b6580426064d
+hash: sha256:06c295b552f2cd365e8f371f7b72cc7317d821d49925fcbcc4643292cacf5ca2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
